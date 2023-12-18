@@ -286,7 +286,7 @@
 			<key>ResizeAppleGpuBars</key>
 			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
-			<false/>
+			<true/>
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
@@ -1074,7 +1074,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1202,7 +1202,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera e1000=0 vsmcgen=1</string>
+				<string>-v keepsyms=1 debug=0x100 agdpmod=ignore e1000=0 vsmcgen=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1271,23 +1271,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>Paste your MLB here</string>
+			<string>C02134501GU0000FB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>RPtCbD41</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>Paste your Serial Number here</string>
+			<string>C02G88YG046M</string>
 			<key>SystemUUID</key>
-			<string>Paste your SMUUID here</string>
+			<string>412ADAB2-DA80-4985-8018-BF0939183D2F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
